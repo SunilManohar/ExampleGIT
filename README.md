@@ -1,2 +1,2 @@
 # ExampleGIT
-Patrice GIT
+Patrice GIT for jenkins
